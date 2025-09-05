@@ -69,8 +69,7 @@ How to Use
 
 1. Download or clone this repository:
 
-git clone https://github.com/yourusername/basic-calculator.git
-
+git clone https://github.com/bhavyaagg2006-ui/Basic-Calculator.git
 
 2. Open the index.html file in your browser.
 
@@ -127,6 +126,7 @@ Memory operations work only on valid numbers.
 License
 
 This project is open-source and free to use for learning and development.
+
 
 
 ---
